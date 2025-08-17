@@ -413,7 +413,7 @@ export default function Portfolio() {
             </CardHeader>
             <CardContent>
               <p className="text-gray-700 text-center leading-relaxed text-lg">
-                Pursuing Bachelor's in Computer Science with experience in Python Programming with Data Science skills,
+                Pursuing Bachelor&apos;s in Computer Science with experience in Python Programming with Data Science skills,
                 seeking a challenging position where I can contribute to developing innovative software solutions and
                 grow my expertise.
               </p>
@@ -798,7 +798,7 @@ export default function Portfolio() {
                     <div className="flex items-start gap-3 p-3 bg-[#036666]/5 rounded-lg">
                       <Heart className="w-5 h-5 text-[#036666] mt-1" />
                       <div>
-                        <h4 className="font-semibold text-gray-900">Principal's Farewell Program (2024)</h4>
+                        <h4 className="font-semibold text-gray-900">Principal&apos;s Farewell Program (2024)</h4>
                         <p className="text-sm text-gray-600">Led and anchored heartfelt farewell program</p>
                       </div>
                     </div>
@@ -806,7 +806,7 @@ export default function Portfolio() {
                       <Sparkles className="w-5 h-5 text-[#036666] mt-1" />
                       <div>
                         <h4 className="font-semibold text-gray-900">ANUGOONJ Cultural Fest (2023)</h4>
-                        <p className="text-sm text-gray-600">Organized college's Annual Cultural Festival</p>
+                        <p className="text-sm text-gray-600">Organized college&apos;s Annual Cultural Festival</p>
                       </div>
                     </div>
                     <div className="flex items-start gap-3 p-3 bg-[#036666]/5 rounded-lg">
@@ -895,7 +895,7 @@ export default function Portfolio() {
               <Mail className="w-6 h-6 text-[#036666]" />
               <h2 className="text-3xl font-bold text-gray-900">Get In Touch</h2>
             </div>
-            <p className="text-gray-600">Let's connect and discuss opportunities!</p>
+            <p className="text-gray-600">Let&apos;s connect and discuss opportunities!</p>
           </div>
 
           <Card className="shadow-2xl border-0 bg-white/90 backdrop-blur-sm">
